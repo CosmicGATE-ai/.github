@@ -1,6 +1,6 @@
 ![logo] (https://raw.githubusercontent.com/CosmicGATE-ai/.github/refs/heads/main/img)
 
-# Tokenizing The Fan Ownership Economy with DePIN x AI
+# Tokenizing Real-World Fan Ownership Economy with DePIN x AI
 
 CosmicGATE is the Uber of dcentralized AI-powering fan ownership economy in the sports & entertainment economy
 Developed and customized for AI Agentic tokenization at scale. 
