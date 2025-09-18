@@ -1,4 +1,4 @@
-![logo] (https://raw.githubusercontent.com/CosmicGATE-ai/.github/refs/heads/main/img)
+![logo] (https://raw.githubusercontent.com/CosmicGATE-ai/.github/refs/heads/main/profile/img)
 
 # Tokenizing Real-World Fan Ownership Economy with DePIN x AI
 
