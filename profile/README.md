@@ -6,4 +6,4 @@ CosmicGATE is the Uber of dcentralized AI-powering Real-World fan ownership econ
 Developed and customized for AI Agentic tokenization at scale.<br>
 Driven by a community of Creators, Node Operators, and Fans- earning rewards, loyalties, and community incentives.<br>
 
-_Powered by Solana and the $GATE token._
+_Powered by Solana with $GATE token utility at its core._
