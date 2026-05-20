@@ -1,9 +1,8 @@
 ![logo](https://raw.githubusercontent.com/CosmicGATE-ai/.github/refs/heads/main/profile/img/logo.svg)
 
-# Tokenizing Real-World Fan Ownership Economy with DePIN x AI
+# The Intelligent Layer for Sports Prediction Markets
 
-CosmicGATE is the Uber of dcentralized AI-powering Real-World fan ownership economy in the sports & entertainment.<br>
-Developed and customized for AI Agentic tokenization at scale.<br>
+Turns fan attention into prediction, ownership, and participation.
 Driven by a community of Creators, Node Operators, and Fans- earning rewards, loyalties, and community incentives.<br>
 
 _Powered by Solana with $GATEAI token utility at its core._
